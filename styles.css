@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 15px;
+    font-family: "Nanum Gothic", sans-serif;
+    color: #0A0A0A;
+}
+
+
+h1{
+    font-size: 25px; 
+    font-family: "Modak", system-ui;
+    font-weight: bold;
+    color: #0A0A0A;
+}
+
+.gothic{
+    font-family: "Poppins", sans-serif;
+}
+
+.modak{
+    font-family: "Modak", system-ui;
+}
+
+.blue{
+    color: #71D4E6;
+}
